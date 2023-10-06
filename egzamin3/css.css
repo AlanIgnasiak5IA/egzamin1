@@ -1,0 +1,57 @@
+.baner{
+background-color: dodgerblue;
+color: white;
+padding: 10px;
+text-align: center;
+}
+        
+
+
+.glowny{
+background-color: lightblue;
+padding: 100px;
+}
+
+.dol_lewy{
+    background-color: DodgerBlue;
+    color: white;
+    width: 20%;
+    height: 220px;
+    float: left;
+}
+
+
+.dol_srodek{
+    background-color: dodgerblue;
+    color: white;
+    width: 40%;
+    height: 220px;
+    text-align: center;
+    float: left;
+
+}
+
+
+.dol_prawy{
+    background-color: dodgerblue;
+    color: white;
+
+    width: 40%;
+    height: 220px;
+    text-align: center;
+    float: left;
+
+}
+
+.main{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#link{
+    border-style: dashed;
+    border-width: 1px;
+    border-color:dimgray;
+    background-color: gold;
+    color:darkred;
+    padding: 10px;
+}
