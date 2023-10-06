@@ -1,0 +1,58 @@
+.baner_lewy{
+    background-color: saddlebrown;
+    color: white;
+    height: 100px;
+    width: 55%;
+font-size: 120%;
+}
+
+.baner_srodek{
+    
+    background-color: saddlebrown;
+    color: white;
+    height: 100px;
+    width: 25%;
+}
+
+.baner_prawy{
+    background-color: saddlebrown;
+    color: white;
+    height: 100px;
+    width:20%;
+    text-align: right;
+}
+
+.blok_glowny{
+background-color: snow;
+padding:70px ;
+}
+
+.stopka_lewa{
+    background-color: saddlebrown;
+    color: white;
+    height: 100px;
+width: 55%;
+font-size: 120%;
+
+}
+
+.stopka_srodek{
+    background-color: saddlebrown;
+    color: white;
+    height: 100px;
+    width: 25%;
+}
+
+
+.stopka_prawa{
+    background-color: saddlebrown;
+    color: white;
+    height: 100px;
+    width:20%;
+    text-align: right;
+}
+
+.main{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+}
